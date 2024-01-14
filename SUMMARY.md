@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Deep Learning Table of Contents](README.md)
