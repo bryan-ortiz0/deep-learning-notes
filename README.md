@@ -2,11 +2,9 @@
 description: By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 ---
 
-# Deep Learning Table of Contents
+[Deep Learning PDF](https://github.com/bryan-ortiz0/deep-learning-notes/files/13930352/Deep.Learning.pdf)
 
-{% file src=".gitbook/assets/Deep Learning.pdf" %}
-PDF link
-{% endfile %}
+# Table of Contents
 
 <mark style="color:yellow;">**Table of Contents:**</mark>\
 1\. Introduction\
