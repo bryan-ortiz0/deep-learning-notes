@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Deep Learning](README.md)
+* [01 Introduction](01-introduction.md)
 
 ## I. Applied Math and Machine Learning Basics
 
