@@ -1,5 +1,5 @@
 ---
-description: By Ian Goodfellow, Yoshua Bengio and Aaron Courville
+description: By Ian Goodfellow, Yoshua Bengio and Aaron Courville (@gitbook)
 ---
 
 # Deep Learning
