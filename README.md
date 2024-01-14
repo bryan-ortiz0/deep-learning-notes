@@ -2,11 +2,11 @@
 description: By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 ---
 
+# Deep Learning Table of Contents
+
 [Deep Learning PDF](https://github.com/bryan-ortiz0/deep-learning-notes/files/13930352/Deep.Learning.pdf)
 
-# Table of Contents
-
-<mark style="color:yellow;">**Table of Contents:**</mark>\
+Table of Contents:\
 1\. Introduction\
 <mark style="color:purple;">**I. Applied Math and Machine Learning Basics**</mark>\
 2\. Linear Algebra\
@@ -29,4 +29,5 @@ description: By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 17\. Monte Carlo Methods\
 18\. Confronting the Partition Function\
 19\. Approximate Inference\
-20\. Deep Generative Models&#x20;
+20\. Deep Generative Models
+---------------------------
