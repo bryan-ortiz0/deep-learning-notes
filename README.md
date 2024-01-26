@@ -37,4 +37,3 @@ description: By Ian Goodfellow, Yoshua Bengio and Aaron Courville (@gitbook)
 18\. Confronting the Partition Function\
 19\. Approximate Inference\
 20\. Deep Generative Models&#x20;
-
